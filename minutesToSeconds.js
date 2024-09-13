@@ -1,4 +1,4 @@
-console.log("=== minutesToSeconds ===");
+console.log("=== converting minutes To Seconds ===");
 
 function minutesToSeconds(minutes){
     return minutes * 60;
